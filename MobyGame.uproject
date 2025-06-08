@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6C3C068F-4415-C183-8F86-28BCDB5AEE6B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MobyGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SimpleScreenMove",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.aboutcg.org/courseDetails/354/introduce"
+		},
+		{
+			"Name": "SimpleFileHelper",
+			"Enabled": true
+		},
+		{
+			"Name": "SimpleThread",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f842694afc354d25b1c3cb3a5397bd9d"
+		},
+		{
+			"Name": "SimpleDrawText",
+			"Enabled": true,
+			"MarketplaceURL": "https://renzhai.net/150.html"
+		}
+	]
+}
