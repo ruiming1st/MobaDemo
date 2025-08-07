@@ -3,11 +3,10 @@ This project is a multiplayer online battle arena (MOBA) game featuring real-tim
 
 ## Features
 ### Server Deployment
+This game is deployed on Alibaba Cloud servers, with support for player login and team information display.
 <p>
   <img width="500" height="684" alt="服务器运行" src="https://github.com/user-attachments/assets/fb8232ae-124f-4aab-99d5-54eaaff2b02b" />
 </p>
-
-
 
 <p>
   <img width="500" height="540" alt="玩家登陆" src="https://github.com/user-attachments/assets/05be804c-08de-4926-84a9-89addfe9b271" />
